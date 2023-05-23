@@ -5,11 +5,6 @@
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -31,8 +26,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Step 1: Intake</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <p>
 Access the osTicket platform by opening a web browser and navigating to the osTicket URL provided by your system administrator.
 Log in using your username and password.
@@ -42,8 +35,6 @@ Click on the "Tickets" tab to access the ticket list.
 <br />
 <h2>Step 2: Ticket Creation and Assignment</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <p>
 To create a new ticket, click on the "+New Ticket" button.
 Fill in the necessary details in the ticket creation form, such as the requester's name, email address, subject, and description of the issue.
@@ -53,8 +44,6 @@ Click on the "Create Ticket" button to submit the ticket.
 <br />
 <h2>Step 3: Communication and Collaboration</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <p>
 After the ticket is created, it will be assigned to the selected department or agent.
 Agents can view and respond to the tickets assigned to them from the "Tickets" tab.
@@ -66,8 +55,6 @@ Agents can collaborate on tickets by assigning them to other agents, adding priv
 <br />
 <h2>Step 4: Working the Issue</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <p>
 Once you have gathered all the necessary information and the issue is understood, proceed to work on resolving it.
 Update the ticket thread to inform the requester about the progress made and any steps taken to address the issue.
@@ -76,8 +63,6 @@ Continuously update the ticket thread to keep the requester informed about the p
   <br />
 <h2>Step 5: Resolution and Closure</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <p>
   Once the issue is resolved, update the ticket thread to provide the solution or resolution to the requester.
 If applicable, provide step-by-step instructions or any additional information that may help the requester.
@@ -85,4 +70,4 @@ Change the ticket status to "Closed" or a similar status indicating that the iss
 If the requester confirms that the issue is indeed resolved, the ticket can be closed. Otherwise, the ticket can be reopened and the process continued.
   </p>
 <p>
-  That's it! You have successfully gone through the osTicket workflow, from ticket intake to resolution. Remember to always communicate clearly and promptly with the requester to ensure a smooth support experience.
+  That's it! You have successfully gone through the osTicket workflow, from ticket intake to resolution. Remember to always communicate clearly and promptly with the client to ensure a smooth support experience.
